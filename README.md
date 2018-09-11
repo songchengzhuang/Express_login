@@ -1,7 +1,7 @@
 
-# Node的express练习
+# Node的express
 
-Node的express练习结构搭建，连接MySql数据库。（添加功能可在此结构基础添加）
+Node的express基础环境搭建，连接MySql数据库。（添加功能可在此结构基础添加）
 
 1.下载，执行 npm i
 
